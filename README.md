@@ -1,4 +1,6 @@
-# Demo of testing Redux Sagas
+# Demo of testing Redux Sagas (WIP)
+
+- [ ] Set up saga tests
 
 - https://github.com/jfairbank/redux-saga-test-plan
 - https://redux-saga.js.org/
